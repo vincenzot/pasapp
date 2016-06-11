@@ -1,10 +1,10 @@
-# pasapp
+# passapp
 
 --> logo goes here <--
 
-**passap** project.
+**passapp** project.
 
-passap è l' acronymo per "**passatempo applicato**" 
+passap è l'acronimo per "**passatempo applicato**" 
 
 ### Membri del Team
 
@@ -17,23 +17,23 @@ passap è l' acronymo per "**passatempo applicato**"
 ### Idea
 
 L'idea nasce per risolvere il problema dell'inquinamente luminoso e i lampioni pubblici che non sono a norma.
-Con i panelli solari flessibili LSC, creiamo de capelli per comprire i lampioni e usare quindi la luce in eccesso per creare energia.
-Questa energia sara usata dai sensori di CO2, o altri dati di inquinamento presenti sui capelli che mandarano i dati ad un cloud monitorare il livello di CO2 nella  città.
+Con i panelli solari flessibili LSC, creiamo dei cappelli per coprire i lampioni e usare quindi la luce in eccesso per creare energia.
+Questa energia sarà in seguito usata dai sensori di CO2, o altri dati di inquinamento presenti sui cappelli che manderanno i dati ad un cloud al fine di monitorare il livello di CO2 nella città.
 
 Use Cases:
 
-1. In città monitoraggio di parametri di inquinamento della citta a costo contenuto.
+1. In città, monitoraggio di parametri di inquinamento della citta a costo contenuto.
 
 2. In casa, creare un sistema Iot dove i sensori di Temperatura e umidita sarano instalati sui capelli fotovoltaici LSC,
 
 ### The architecture
 
-IBM bluemix con Watso broker per il servisio Cloud
+IBM bluemix con Watso broker per il servizio Cloud
 Applicazione android client per avere i dati in tempo reale
 Sensori di umidita,temperatura, CO2
-Shede ATtiny85  + ESP8266
+Schede ATtiny85  + ESP8266
 
-### Pasap Breakdown Structure
+### Passapp Breakdown Structure
 
 * Project Setup
 
@@ -64,11 +64,11 @@ Shede ATtiny85  + ESP8266
   - [ ] Prepare pitch 
   - [ ] Slide deck for the Hackaton 
 
-* Assemblare i pezzi della demo finale dell' Hackaton
+* Assemblare i pezzi della demo finale dell'Hackaton
 
   - [ ] Prepare demo storyboard 
   - [ ] Lanciare le schede
-  - [ ] Metere LSC nella lampada
+  - [ ] Mettere l'LSC nella lampada
   - [ ] Controllare i dati del Cloud
 
 * [ ] Pitch at the end of the hackaton
