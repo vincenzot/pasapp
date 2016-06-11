@@ -37,10 +37,10 @@ Shede ATtiny85  + ESP8266
 
 * Project Setup
 
-  - [X] Creare bluemix project - See 
+  - [X] Creare bluemix project - See http://pasapp.mybluemix.net/
   - [X] Documentare i membri del Team, competenze
   - [ ] Scrivere e accettare un piano di task
-  - [X] Creare chat room - See pasapp.slack.com
+  - [X] Creare chat room - See http://pasapp.slack.com
 
 * Sviluppo architettura
 
