@@ -51,6 +51,9 @@ Shede ATtiny85  + ESP8266
   - [X] [Setup Devops Service]
 
 * passap Ruby Application 
+  - [ ] [Design and develop App]
+* passap Android Application 
+  - [ ] [Design and develop App]
 
 * Rendering del prodotto
 
