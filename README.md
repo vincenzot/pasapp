@@ -8,10 +8,10 @@ passap è l' acronymo per "**passatempo applicato**"
 
 ### Membri del Team
 
-1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru
+1. [Wilfried Mbouenda Mbogne](https://github.com/WillyShakes) - Architecture, Android guru, Marketing
 1. [Gianluca Randazzo](https://github.com/fusilicode) - Iot, Server, Ruby, php
 1. [Vincenzo Tartaglia](https://github.com/?) - Designer, Developer
-1. [Jacopo Diamanti](https://github.com/?) - Iot, Hardware trainer and developer, python, c
+1. [Jacopo Diamanti](https://github.com/?) - Iot, Hardware trainer and developer, python, c, Marketing
 1. Ettore Murfuni - Docente di Fisica, Hardware developer, c++
 
 ### Idea
